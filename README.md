@@ -4,6 +4,8 @@ A browser-based Rock–Paper–Scissors game against the computer, built with va
 
 Both you and the computer start with **5 lives**. Each round you pick a hand, play, then reveal both cards with a flip animation. Lose a round and you lose a life. Last one standing wins, and the lives you have left when you win are tracked as your high score.
 
+![Rock Paper Scissors](screenshots/demo.png)
+
 ## Features
 
 - Play against a random computer opponent
